@@ -465,7 +465,7 @@ Scroll to top
 .container-main{
   margin-top: 20px;
 }
-
+/*
 .container-main h1 {
   counter-reset: h2counter;
 }
@@ -512,7 +512,7 @@ Scroll to top
 .container-main h4.nocount::before {
   content: none;
   counter-increment: none;
-}
+}*/
 
 
 .toclink, .toclink:hover, .toclink:active, .toclink:focus, .toclink:visited{
