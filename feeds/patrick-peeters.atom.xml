@@ -207,8 +207,8 @@
 
                  &lt;!-- PORTFOLIO ITEM --&gt;
                 &lt;div class="work-item"&gt;
-                  &lt;a class="test-popup-link appear" href="/images/Eric De Vos/c.jpg" title=""&gt;
-                    &lt;img class="lazy fullsize" src="/images/placeholder.jpg" loading="auto" data-src="/images/Eric De Vos/c.jpg" alt=""&gt;
+                  &lt;a class="test-popup-link appear" href="/images/Eric De Vos/c.JPG" title=""&gt;
+                    &lt;img class="lazy fullsize" src="/images/placeholder.jpg" loading="auto" data-src="/images/Eric De Vos/c.JPG" alt=""&gt;
                     &lt;div class="work-caption font-alt"&gt;
                       &lt;h3 class="work-title"&gt;🔍︁&lt;/h3&gt;
                     &lt;/div&gt;
