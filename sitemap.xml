@@ -8,6 +8,10 @@
   </url>
 
   <url>
+    <loc>./blog/2023/12/brasserie-croque-notes/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>./blog/2023/11/capturing-musical-magic-recordings-with-eric-de-vos/</loc>
     <priority>0.5</priority>
   </url>
